@@ -1,0 +1,109 @@
+header {
+  background-color: #1C488A;
+  color: white;
+  padding: 10px 0;
+  border: none;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+main{
+    display: flex;
+    gap: 10px;
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.left-section{
+    max-width: 60%;
+    height: auto;;
+}
+
+.right-section{
+    background-color: #D4D5D9;
+    max-width: 40%;
+    min-width: 40%;
+}
+
+hr{
+    margin-left: 0%;
+    color: #1C488A;
+}
+
+header h1,
+header h2 {
+  margin: 0;   
+  padding: 10px 20px;  
+}
+
+p {
+    padding: 0;
+    gap: 0;
+    margin: 0;
+    margin-left: 16px;
+    max-width: 500px;
+}
+
+article{
+    gap: 10px;
+    margin-bottom: 50px;
+}
+
+main h1{
+    color: #1C488A;
+    margin-left: 15px;
+}
+
+.icono-texto{
+    display: flex;
+    align-items: center;
+    gap: 0px;
+}
+
+.icono-texto i{
+    font-size: 22px;
+    margin-left: 20px;
+    gap: 0;
+    padding: none;
+    color: #1C488A;
+}
+.divider-left, .divider-right{
+    border: 2px solid;
+    margin-left: 10px;;
+    margin-right: 10px;;
+}
+.Skills-One{
+    border: 10px solid #1C488A;
+    margin-left: 10px;
+    margin-right: 80px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.Skills-Two{
+    border: 10px solid #1C488A;
+    margin-left: 10px;
+    margin-right: 60px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.Skills-Three{
+    border: 10px solid #1C488A;
+    margin-left: 10px;
+    margin-right: 120px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.Skills-Four{
+    border: 10px solid #1C488A;
+    margin-left: 10px;
+    margin-right: 20px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.Skills-Five{
+    border: 10px solid #1C488A;
+    margin-left: 10px;
+    margin-right: 90px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
